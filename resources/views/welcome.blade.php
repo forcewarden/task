@@ -41,7 +41,7 @@
             @endforeach
         </table>
         <div style="width: 100%; height: 500px;" id="map"></div>
-    @endisset
+    @endif
     </body>
     <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
